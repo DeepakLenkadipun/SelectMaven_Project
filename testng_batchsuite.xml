@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" >
+  <test  name="Test" preserve-order="true">
+    <classes>
+      <class name="com.crm.autodesk.ContactTest.TC_19_SendmailwithoutSelectContact"/>
+      <class name="com.crm.autodesk.ContactTest.TC_16_ViewContact"/>
+      <class name="com.crm.autodesk.ContactTest.TC_20_SendiningmaleMultipleContactse"/>
+      <class name="com.crm.autodesk.ContactTest.TC_17_selectOneContactclickDuplicateBtn"/>
+      <class name="com.crm.autodesk.ContactTest.TC_18_SendingAMailToSelectedContact"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

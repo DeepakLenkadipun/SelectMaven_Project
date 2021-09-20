@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="28" started-at="2021-09-19T15:43:09Z" finished-at="2021-09-19T15:43:09Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="28" started-at="2021-09-19T15:43:09Z" finished-at="2021-09-19T15:43:09Z">
+      <class name="com.crm.practicechaitra.ReadFromXml">
+        <test-method status="PASS" signature="readDataFromXml(org.testng.xml.XmlTest)[pri:0, instance:com.crm.practicechaitra.ReadFromXml@77b52d12]" name="readDataFromXml" duration-ms="0" started-at="2021-09-19T21:13:09Z" finished-at="2021-09-19T21:13:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Test: "Test" verbose:1[parameters:][metagroups:] [included: ][excluded: ]  classes:[XmlClass class=com.crm.practicechaitra.ReadFromXml]  packages:] ]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readDataFromXml -->
+      </class> <!-- com.crm.practicechaitra.ReadFromXml -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
